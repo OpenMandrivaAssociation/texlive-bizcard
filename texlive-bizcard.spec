@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-bizcard
 Version:	1.1
-Release:	5
+Release:	6
 Summary:	Typeset business cards
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bizcard
