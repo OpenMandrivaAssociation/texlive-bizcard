@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typeset business cards
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bizcard
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bizcard
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bizcard.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bizcard.doc.r%{version}.tar.xz
